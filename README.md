@@ -13,8 +13,7 @@
 演示效果：
 
 ```HTML
-<video width="320" height="240" controls>
-    <source src="movie.mp4" type="video/mp4">
+<video width="320" height="600" controls>
+    <source src="[movie.mp4](https://github.com/hgncxzy/BaseRecyclerViewAdapterHelperDemo/blob/master/screenshot/%E5%A4%9A%E5%B8%83%E5%B1%80%2B%E6%8B%96%E6%8B%BD.mp4)" type="video/mp4">
 </video>
 ```
-
