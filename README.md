@@ -10,3 +10,11 @@
 3. 开源框架BaseRecyclerViewAdapterHelper使用——RecyclerView万能适配器：https://www.jianshu.com/p/1e20f301272e
 4. Android利用BaseRecyclerViewAdapterHelper开源库实现多布局拖拽功能：https://blog.csdn.net/cj641809386/article/details/100170972/
 
+演示效果：
+
+```HTML
+<video width="320" height="240" controls>
+    <source src="movie.mp4" type="video/mp4">
+</video>
+```
+
