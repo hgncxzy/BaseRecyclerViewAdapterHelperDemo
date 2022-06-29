@@ -12,4 +12,4 @@
 
 演示效果：
 
-![](https://gitee.com/turbo-studio/image/raw/master/image/20210215225951.gif)
+![](https://github.com/hgncxzy/BaseRecyclerViewAdapterHelperDemo/blob/master/screenshot/%E5%A4%9A%E5%B8%83%E5%B1%80%2B%E6%8B%96%E6%8B%BD.gif)
