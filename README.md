@@ -13,7 +13,7 @@
 演示效果：
 
 ```HTML
-<video width="320" height="600" controls>
-    <source src="[movie.mp4](https://github.com/hgncxzy/BaseRecyclerViewAdapterHelperDemo/blob/master/screenshot/%E5%A4%9A%E5%B8%83%E5%B1%80%2B%E6%8B%96%E6%8B%BD.mp4)" type="video/mp4">
+<video width="720" height="303" controls> #或者：<video width:60% height:auto controls>
+<source src="[https://movie.cy798.cn/%E9%BB%91%E8%B1%B9.Black.Panther.2018.BD720P.X264.AAC.English.CHS-ENG.mp4](https://github.com/hgncxzy/BaseRecyclerViewAdapterHelperDemo/blob/master/screenshot/%E5%A4%9A%E5%B8%83%E5%B1%80%2B%E6%8B%96%E6%8B%BD.mp4)" type="video/mp4">
 </video>
 ```
